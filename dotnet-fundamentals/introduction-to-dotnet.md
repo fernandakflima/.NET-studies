@@ -35,3 +35,89 @@ This motivated Microsoft to develop an ecosystem integrated into Windows, making
 #### If 2016 was the last version of .NET, what happened in 2020 then?
 
 .NET Core and .NET 5 are the same things, but they removed the Core because .NET is the original name. So, from .NET 5 onwards, it's jsut about .NET Core.
+
+# Differences between .NET Framework (Legacy) and .NET
+
+.NET Framework: Fully - featured and integrated .NEt libraries and runtime fo Windows
+
+.NET: CoreCLR - Modular and optimized .NET libraries and runtimes
+
+# .NET compiler and its working
+
+## What is a compiler?
+### High-level language
+
+The language that we understand and write our source code.
+
+### Low-level-language
+
+The language that the machine he understands. It has little abstraction, making it difficult to understand.
+
+### Compiler
+
+It is a program that performs the conversion of high-level to low-level language.
+
+# Compiler and Transpiler
+## Compiler
+It is a program that performs the conversion of high-level to low-level language.
+
+### Transpiler
+It is the conversion of a language or implementation to another. Your exit remains in high-level language.
+
+# Not all languages are compiled
+## Compiled language
+
+These are languages in which the source code is translated into machine code.
+
+## Interpreted language
+These are languages that make reading and interpretation directly from the source code.
+
+# Environment configuration and IDEs
+
+## What is an IDE?
+
+An IDE, or Integrated Developmetn Environment, is a software that facilitates and integrates various facilities and debuggind code. 
+
+### Visual Studio
+
+It is the main IDE for .NET, with support for C#, C++, Python, Node.js, Unity and Mobile.
+
+#### Benefits
+
+Free version (Community)
+Detail-rich debug
+Available for Windows and Mac
+
+#### Disadvantages
+
+Not available for Linux
+Performance requires a lot of machine resources
+
+### Visual Studio Code
+
+VS Code is a text editor used to facilitate development of different languages.
+
+#### Benefits
+
+Completely free
+Possibility to install extensions
+Available for Windows, Mac and Linux
+Very light in performance
+
+#### Disadvantages
+
+Initial setup required
+Not very intuitite for some features
+
+### Rider
+
+#### Benefits
+Rich in features
+Tight integration with .NET
+Ease of working with Unity
+Code refactoring recommendations
+Shortcuts and commands that increase productivity
+
+#### Disadvantages
+Paid out
+Performance requires a lot of machine resources
