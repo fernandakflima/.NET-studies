@@ -7,3 +7,5 @@
 [How is C# Compiled?](https://freecontent.manning.com/how-is-c-compiled/)
 
 [What is Just-In-Time (JIT) Compiler in .NET](https://www.geeksforgeeks.org/what-is-just-in-time-jit-compiler-in-dot-net/)
+
+[What is the Difference Between int Parse and Convert TOInt32 in C#](https://pediaa.com/what-is-the-difference-between-int-parse-and-convert-toint32-in-c/)
