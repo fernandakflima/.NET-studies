@@ -120,3 +120,5 @@ Must not contain special characters, other than underline, in variables, propert
 **Scope** is a piece of block that you will carry out your codes in - usually it is the beginning and end of a brace, {}.
 
 **DataTime** is a way to represent dates in C#
+
+Next note [here](https://github.com/fernandakflima/.NET-studies/blob/main/dotnet-fundamentals/types-of-operators.md)

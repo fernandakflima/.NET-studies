@@ -78,3 +78,5 @@ C# follows the same order as mathematics, being: parentheses, exponent, division
 
 The conditional operator makes it possible to change the flow of execution of your code, indicating a path that
 he must go through.
+
+Next note [here](https://github.com/fernandakflima/.NET-studies/blob/main/dotnet-fundamentals/arithmetic-operators.md)

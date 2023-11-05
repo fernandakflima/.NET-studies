@@ -71,3 +71,5 @@ These are languages in which the source code is translated into machine code.
 
 ## Interpreted language
 These are languages that make reading and interpretation directly from the source code.
+
+Next note [here](https://github.com/fernandakflima/.NET-studies/blob/main/dotnet-fundamentals/syntax-and-data-types.md)
